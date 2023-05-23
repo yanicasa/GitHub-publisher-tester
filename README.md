@@ -1,1 +1,1 @@
-# GitHub-publisher-tester
+# GitHub publisher tester
