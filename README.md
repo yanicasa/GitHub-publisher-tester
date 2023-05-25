@@ -1,9 +1,3 @@
-# GitHub-publisher-tester
+# GitHub publisher tester
 
-Test de branche
-
-Avec plusieurs commits dessus
-
-valid
-
-test
+Dépôt de test
